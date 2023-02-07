@@ -1,5 +1,19 @@
 ### Hi, I'm Cynthia👋
 
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/cynthia-araujo-2810b0122/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/cynthialimaaraujo/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 <!--
 **CynthiaAraujo/CynthiaAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
