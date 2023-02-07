@@ -1,5 +1,9 @@
 ### Hi, I'm Cynthia👋
 
+- 🔥 Web Developer
+
+- 💬 Project using **JavaScript, HTML, CSS, Node.JS**
+
 ## Contact
 
 <p align="left" style="background:yellow">
