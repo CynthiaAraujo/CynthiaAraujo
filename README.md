@@ -3,9 +3,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-cynthiaAraujo-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/cynthia-araujo-2810b0122/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-cynthiaAraujo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
