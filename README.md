@@ -2,7 +2,7 @@
 
 - 🔥 Web Developer
 
-- 💬 Project using **JavaScript, HTML, CSS, React.JS, Node.JS**
+- 💬 Project using **TypeScript, JavaScript, HTML, CSS, React.JS, Node.JS**
 
 ## Contact
 
